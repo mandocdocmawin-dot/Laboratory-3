@@ -63,6 +63,11 @@
  2. Create your `.env` file:
     
     If you have `.env.example`, copy it to `.env`. If not, create a `.env` file and configure it.
+    try it 
+
+    ```bash
+    cp .env.example .env
+    ```
  
  3. Generate an application key:
     
@@ -74,6 +79,16 @@
     
     ```bash
     npm install
+    ```
+ 5. Create the Database File  
+    
+    ```bash
+    New-Item -ItemType File database/database.sqlite
+    ```
+ 6. Run the migrations:
+    
+    ```bash
+    php artisan migrate
     ```
  
  ### Run
