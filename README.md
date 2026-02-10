@@ -32,20 +32,15 @@
  
  ## Screenshots / Page Content
  
- Add your screenshots into `public/` (or any folder you prefer) and update the image paths below.
- 
  - **Main portfolio page (Home)**
-   - Paste screenshot here:
-     
+
      `![Home Page](./public/images/screenshot/Screenshot-home.png)`
  
  - **Sub-page 1 (About Me)**
-   - Paste screenshot here:
-     
+ 
      `![About Page](./public/images/screenshot/Screenshot-about.png)`
  
  - **Sub-page 2 (Projects)**
-   - Paste screenshot here:
      
      `![Projects Page](./public/images/screenshot/Screenshot-projects.png)`
  
