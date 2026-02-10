@@ -34,15 +34,15 @@
  
  - **Main portfolio page (Home)**
 
-     `![Home Page](./public/images/screenshot/Screenshot-home.png)`
+     `![Home Page](../public/images/screenshot/Screenshot-home.png)`
  
  - **Sub-page 1 (About Me)**
  
-     `![About Page](./public/images/screenshot/Screenshot-about.png)`
+     `![About Page](../public/images/screenshot/Screenshot-about.png)`
  
  - **Sub-page 2 (Projects)**
      
-     `![Projects Page](./public/images/screenshot/Screenshot-projects.png)`
+     `![Projects Page](../public/images/screenshot/Screenshot-projects.png)`
  
  ## How to Run Locally
  
